@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I'm a passionate mobile app developer and resear
 ## 💼 Professional Experience
 
 - **Mobile Application Developer Intern at Kent Displays.** (Where I gave the Blackboard v2.0 app a tech makeover, making it as smooth and reliable as your morning coffee, ensuring every swipe and tap brings a smile. 📱☕)
-- **System Engineer at Tata Consultancy Services.** (Where I raced past the code, creating marathon apps that sprinted to 100,000 downloads faster than a runner chasing the finish line)
+- **System Engineer at Tata Consultancy Services.** (Where I raced past the code, creating marathon apps that sprinted to 100,000 downloads faster than a runner chasing the finish line. 🏃💨📲)
 - **Software Developer at Ticket On Go.** (Where I turned rush hour into smooth sailing, launching an app that packed a thousand users onto the digital ticketing train without a single paper pass in sight. 🚆🎫✨)
 
 ---
