@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sagar Sahu! 🚀
 
-Welcome to my GitHub portfolio! I'm a passionate mobile app developer and researcher in computer science, currently expanding my skills in data security and AI at Indiana University Bloomington.
+Welcome to my GitHub portfolio! I'm a passionate mobile app developer and computer science researcher, expanding my data security and AI skills at Blue Cross And Blue Shield Of Kansas.
 
 ---
 
