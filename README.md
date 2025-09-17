@@ -1,86 +1,87 @@
-👋 Hey there, I'm Sagar Sahu! 🚀
+👋 Hey there, I'm Sagar Sahu 🚀
 
-Welcome to my GitHub portfolio!
-I’m a Mobile Software Engineer with deep expertise in iOS development, secure BLE integration, and scalable app architecture, building solutions that impact hundreds of thousands of users in healthcare and beyond.
+A Mobile Software Engineer passionate about building secure, scalable, and impactful apps in healthcare and beyond. From AI-enabled mental health tracking to FDA-regulated diabetes solutions, I craft experiences that empower hundreds of thousands of users worldwide.
 
 🎓 Education
 
-Master of Science in Computer Science, Indiana University Bloomington
+🎓 Master of Science in Computer Science, Indiana University Bloomington
 
-GPA: 3.90/4.0 | Focus: Mobile Systems, AI, and Data Security
+GPA: 3.90/4.0 | Focus: Mobile Systems, AI & Data Security
 
-Bachelor of Engineering in Computer Engineering, University of Mumbai
+🎓 Bachelor of Engineering in Computer Engineering, University of Mumbai
 
 Graduated with Honors
 
 💼 Professional Experience
-Medtronic, Inc. – Los Angeles, CA
+🏥 Medtronic, Inc. – Los Angeles, CA
 
 Software Engineer II | Jan 2025 – Present
 
-Lead rapid troubleshooting and root cause analysis for MiniMed iOS app, supporting 250,000+ patients worldwide.
+Troubleshooting & root cause analysis for MiniMed iOS app, supporting 250,000+ patients.
 
-Engineer secure Bluetooth LE integration between OEM CGM sensors and the 780G insulin pump, powering Medtronic’s Advanced Hybrid Closed Loop therapy.
+Developed secure BLE integration between CGM sensors & 780G insulin pump.
 
-Subject Matter Expert for Apple Watch Extension, delivering real-time glucose insights and advanced complication UI.
+SME for Apple Watch Extension, delivering real-time glucose insights.
 
-Author technical specifications, ICDs, and regulatory documents to support FDA and cross-functional reviews.
+Authored technical specifications & regulatory docs for FDA approval.
 
-Blue Cross and Blue Shield of Kansas – Topeka, KS
+🏢 Blue Cross and Blue Shield of Kansas – Topeka, KS
 
 Software Developer II | May 2024 – Jan 2025
 
-Led the SwiftUI native rewrite of the BCBSKS iOS app for 170,000+ members, using MVVM and SPM for modular scalability.
+Led SwiftUI native rewrite of BCBSKS iOS app for 170,000+ members.
 
-Migrated accounts to Okta/Auth0 SSO, ensuring HIPAA-compliant secure access.
+Migrated accounts to Okta/Auth0 SSO for HIPAA-compliant secure access.
 
-Performed in-depth performance tuning with Instruments, significantly cutting CPU and memory usage.
+Optimized performance using Instruments, cutting CPU & memory usage.
 
-Integrated Apple Pay for in-app payments, leveraging PassKit and Tokenized Payment APIs.
+Integrated Apple Pay with PassKit & Tokenized Payment APIs.
 
-Indiana University – Bloomington, IN
+🎓 Indiana University – Bloomington, IN
 
 iOS Developer | May 2023 – May 2024
 
-Developed MHAI-Pal, an AI-enabled iOS app that tracked mental health of 2,000+ students.
+Built MHAI-Pal, AI-enabled iOS app for 2,000+ students’ mental health tracking.
 
-Built a multithreaded sensor data pipeline (1M+ points: Health, Motion, Location, Bluetooth) using Swift GCD with AES-256 encryption.
+Captured 1M+ passive sensor data points (Health, Motion, Location, Bluetooth).
 
-Integrated PHQ-9, GAD-7, HADS surveys, enabling real-time personalized mental wellness insights.
+Used AES-256 encryption for secure storage + Swift GCD for async pipelines.
 
-Boosted engagement with Firebase Cloud Messaging and interactive dashboards.
+Integrated PHQ-9, GAD-7, HADS surveys + Firebase Cloud Messaging.
 
-Kent Displays – Kent, OH
+📱 Kent Displays – Kent, OH
 
 Mobile Application Developer Intern | May 2023 – Dec 2023
 
-Rebuilt the Blackboard app (iOS + Android) with modern UI/UX and optimized BLE pen connectivity.
+Rebuilt Blackboard app (iOS + Android) with modern UI/UX.
 
-Authored 100+ test cases with XCTest & Appium for robust quality.
+Optimized BLE smart-pen connectivity.
 
-Shipped the app successfully to App Store & Google Play.
+Authored 100+ test cases (XCTest, Appium).
 
-Tata Consultancy Services – Mumbai, India
+Published apps to App Store & Google Play.
+
+🌍 Tata Consultancy Services – Mumbai, India
 
 System Engineer (Mobile) | Nov 2020 – Jul 2022
 
-Built 6 iOS marathon apps, downloaded by 100,000+ users globally.
+Developed 6 iOS marathon apps → 100,000+ downloads.
 
-Implemented Face ID + JWT authentication with secure session management.
+Implemented Face ID + JWT authentication.
 
-Automated CI/CD pipelines using Fastlane & Jenkins, cutting deployment time by 40%.
+Automated CI/CD pipeline (Fastlane + Jenkins), reducing deployment time by 40%.
 
-Ticket On Go – Mumbai, India
+🚆 Ticket On Go – Mumbai, India
 
 Software Developer Intern | Jan 2020 – Oct 2020
 
-Launched Ticket On Go iOS app with 1,000+ downloads to simplify public transport ticketing.
+Launched Ticket On Go iOS app → 1,000+ downloads.
 
-Integrated Razorpay SDK for instant digital payments.
+Integrated Razorpay SDK for instant ticket payments.
 
-Embedded Firebase Analytics for real-time user tracking.
+Embedded Firebase Analytics for real-time user insights.
 
-🛠 Technical Skills
+🛠 Skills
 
 Languages & Frameworks: Swift, SwiftUI, Objective-C, Kotlin, TypeScript, JavaScript, Python
 
@@ -90,21 +91,21 @@ Apple & Mobile Frameworks: UIKit, HealthKit, CoreMotion, CoreLocation, MapKit, A
 
 Tools & Platforms: Xcode, GitHub/GitLab, Jenkins, Fastlane, AWS, GraphQL, Instruments, Android Studio
 
-🏆 Awards & Recognition
+🏆 Achievements
 
-Silver Stevie Award (2020) – Best User Experience for TCS NYC Marathon App
+🥈 Silver Stevie Award (2020) – Best UX, TCS NYC Marathon App
 
-On-the-Spot Award (2020) – Tata Consultancy Services
+🏅 On-the-Spot Award (2020) – Tata Consultancy Services
 
-Integrity Award (2023) – Kent Displays
+🏆 Integrity Award (2023) – Kent Displays
 
 🌐 Connect
 
-GitHub
+🔗 GitHub
 
-LinkedIn
+🔗 LinkedIn
 
-Medium
+✍️ Medium
 
 📧 Email: sahu.sagar113@gmail.com
 
