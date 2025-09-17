@@ -1,61 +1,111 @@
-# 👋 Hey there, I'm Sagar Sahu! 🚀
+👋 Hey there, I'm Sagar Sahu! 🚀
 
-Welcome to my GitHub portfolio! I'm a passionate mobile app developer and computer science researcher, expanding my data security and AI skills at Blue Cross And Blue Shield Of Kansas.
+Welcome to my GitHub portfolio!
+I’m a Mobile Software Engineer with deep expertise in iOS development, secure BLE integration, and scalable app architecture, building solutions that impact hundreds of thousands of users in healthcare and beyond.
 
----
+🎓 Education
 
-## 🎓 Education
+Master of Science in Computer Science, Indiana University Bloomington
 
-- **Masters of Science in Computer Science**, Indiana University Bloomington
-  - Focus: AI and Mobile App Development
-- **Bachelor of Engineering in Computer Engineering**, University of Mumbai
-  - Graduated with Honors
+GPA: 3.90/4.0 | Focus: Mobile Systems, AI, and Data Security
 
----
+Bachelor of Engineering in Computer Engineering, University of Mumbai
 
-## 💼 Professional Experience
+Graduated with Honors
 
-- **Mobile Application Developer Intern at Kent Displays.** (Where I gave the Blackboard v2.0 app a tech makeover, making it as smooth and reliable as your morning coffee, ensuring every swipe and tap brings a smile. 📱☕)
-- **System Engineer at Tata Consultancy Services.** (Where I raced past the code, creating marathon apps that sprinted to 100,000 downloads faster than a runner chasing the finish line. 🏃💨📲)
-- **Software Developer at Ticket On Go.** (Where I turned rush hour into smooth sailing, launching an app that packed a thousand users onto the digital ticketing train without a single paper pass in sight. 🚆🎫✨)
+💼 Professional Experience
+Medtronic, Inc. – Los Angeles, CA
 
----
+Software Engineer II | Jan 2025 – Present
 
-## 🔬 Research Experience
+Lead rapid troubleshooting and root cause analysis for MiniMed iOS app, supporting 250,000+ patients worldwide.
 
-- **Research Assistant at Indiana University.** (Where I transformed student mental health tracking into a fine art, pioneering an app that whispers the mood of 2,000+ students through their phones, all under the watchful eye of Prof. Sagar Samtani. 🧠💡✨)
+Engineer secure Bluetooth LE integration between OEM CGM sensors and the 780G insulin pump, powering Medtronic’s Advanced Hybrid Closed Loop therapy.
 
----
+Subject Matter Expert for Apple Watch Extension, delivering real-time glucose insights and advanced complication UI.
 
-## 🤝 Volunteer Experience
+Author technical specifications, ICDs, and regulatory documents to support FDA and cross-functional reviews.
 
-- **iOS Developer at Outdoor Explorer.** (Where I turned the great outdoors into a pocket-sized adventure, creating an app that guides over 5,000 users through nature with the magic of technology, ensuring not even a single tree misses their presence. 🌲📱✨)
+Blue Cross and Blue Shield of Kansas – Topeka, KS
 
----
+Software Developer II | May 2024 – Jan 2025
 
-## 🛠 Skills
+Led the SwiftUI native rewrite of the BCBSKS iOS app for 170,000+ members, using MVVM and SPM for modular scalability.
 
-- **Languages & Frameworks:** Swift, SwiftUI, Objective-C, Kotlin, Python, JavaScript
-- **Patterns & Practices:** MVC, MVP, MVVM, VIPER
-- **Apple Frameworks & Libraries:** UIKit, HealthKit, Core Motion, Core Location, Core Animation, MapKit, AVFoundation
-- **Tools & Platforms:** Xcode, Android Studio, Git, GitHub, AWS, Jenkins, Fastlane
+Migrated accounts to Okta/Auth0 SSO, ensuring HIPAA-compliant secure access.
 
----
+Performed in-depth performance tuning with Instruments, significantly cutting CPU and memory usage.
 
-## 🏆 Achievements
+Integrated Apple Pay for in-app payments, leveraging PassKit and Tokenized Payment APIs.
 
-- **Silver Stevie Award Winner 2020**, Best User Experience for TCS New York City Marathon Application.
-- **On the Spot Individual Award 2020**, TATA Consultancy Services (TCS)
-- **Integrity Award 2023**, Kent Display's
+Indiana University – Bloomington, IN
 
----
+iOS Developer | May 2023 – May 2024
 
-## 🌐 Connect
+Developed MHAI-Pal, an AI-enabled iOS app that tracked mental health of 2,000+ students.
 
-- [Github](https://github.com/Sagar03111997)
-- [Linkedln](https://www.linkedin.com/in/sagar0311)
-- [Medium](http://tinyurl.com/2vwftb7j)
-- 📧 **Email:** sahu.sagar113@gmail.com
-- 📞 **Phone:** +1-812-778-4658
+Built a multithreaded sensor data pipeline (1M+ points: Health, Motion, Location, Bluetooth) using Swift GCD with AES-256 encryption.
 
-Thank you for visiting my portfolio. Let's innovate and create impactful solutions together!
+Integrated PHQ-9, GAD-7, HADS surveys, enabling real-time personalized mental wellness insights.
+
+Boosted engagement with Firebase Cloud Messaging and interactive dashboards.
+
+Kent Displays – Kent, OH
+
+Mobile Application Developer Intern | May 2023 – Dec 2023
+
+Rebuilt the Blackboard app (iOS + Android) with modern UI/UX and optimized BLE pen connectivity.
+
+Authored 100+ test cases with XCTest & Appium for robust quality.
+
+Shipped the app successfully to App Store & Google Play.
+
+Tata Consultancy Services – Mumbai, India
+
+System Engineer (Mobile) | Nov 2020 – Jul 2022
+
+Built 6 iOS marathon apps, downloaded by 100,000+ users globally.
+
+Implemented Face ID + JWT authentication with secure session management.
+
+Automated CI/CD pipelines using Fastlane & Jenkins, cutting deployment time by 40%.
+
+Ticket On Go – Mumbai, India
+
+Software Developer Intern | Jan 2020 – Oct 2020
+
+Launched Ticket On Go iOS app with 1,000+ downloads to simplify public transport ticketing.
+
+Integrated Razorpay SDK for instant digital payments.
+
+Embedded Firebase Analytics for real-time user tracking.
+
+🛠 Technical Skills
+
+Languages & Frameworks: Swift, SwiftUI, Objective-C, Kotlin, TypeScript, JavaScript, Python
+
+Architectures: MVC, MVP, MVVM, VIPER
+
+Apple & Mobile Frameworks: UIKit, HealthKit, CoreMotion, CoreLocation, MapKit, AVFoundation, Bluetooth, Firebase
+
+Tools & Platforms: Xcode, GitHub/GitLab, Jenkins, Fastlane, AWS, GraphQL, Instruments, Android Studio
+
+🏆 Awards & Recognition
+
+Silver Stevie Award (2020) – Best User Experience for TCS NYC Marathon App
+
+On-the-Spot Award (2020) – Tata Consultancy Services
+
+Integrity Award (2023) – Kent Displays
+
+🌐 Connect
+
+GitHub
+
+LinkedIn
+
+Medium
+
+📧 Email: sahu.sagar113@gmail.com
+
+📞 Phone: +1-812-778-4658
