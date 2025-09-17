@@ -1,112 +1,160 @@
-👋 Hey there, I'm Sagar Sahu 🚀
+# 👋 Hey there, I'm **Sagar Sahu** 🚀
 
-A Mobile Software Engineer passionate about building secure, scalable, and impactful apps in healthcare and beyond. From AI-enabled mental health tracking to FDA-regulated diabetes solutions, I craft experiences that empower hundreds of thousands of users worldwide.
+*A Mobile Software Engineer shaping privacy-first, scalable apps for healthcare and everyday life.*
 
-🎓 Education
+I'm currently building patient‑impacting iOS experiences at **Medtronic** and previously led a **SwiftUI** native rewrite at **Blue Cross and Blue Shield of Kansas**. I love secure **Bluetooth LE**, rock‑solid **app architecture**, and shipping features that help **hundreds of thousands** of people.
 
-🎓 Master of Science in Computer Science, Indiana University Bloomington
+<div align="left">
 
-GPA: 3.90/4.0 | Focus: Mobile Systems, AI & Data Security
+[![Made with Swift](https://img.shields.io/badge/iOS-Swift-orange)](#)
+[![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue)](#)
+[![BLE](https://img.shields.io/badge/Connectivity-BLE-4c9)](#)
+[![HIPAA](https://img.shields.io/badge/Healthcare-HIPAA-blueviolet)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-Fastlane%20%2B%20Jenkins-success)](#)
 
-🎓 Bachelor of Engineering in Computer Engineering, University of Mumbai
+</div>
 
-Graduated with Honors
+---
 
-💼 Professional Experience
-🏥 Medtronic, Inc. – Los Angeles, CA
+## 🧭 Quick Links
 
-Software Engineer II | Jan 2025 – Present
+* [Education](#-education)
+* [Experience](#-professional-experience)
+* [Featured Projects](#-featured-projects)
+* [Skills](#-skills)
+* [Achievements](#-achievements)
+* [Connect](#-connect)
 
-Troubleshooting & root cause analysis for MiniMed iOS app, supporting 250,000+ patients.
+---
 
-Developed secure BLE integration between CGM sensors & 780G insulin pump.
+## 🎓 Education
 
-SME for Apple Watch Extension, delivering real-time glucose insights.
+* **Master of Science in Computer Science**, *Indiana University Bloomington* — GPA **3.90/4.0**
+  Focus: Mobile Systems, AI & Data Security
+* **Bachelor of Engineering in Computer Engineering**, *University of Mumbai* — Graduated with Honors
 
-Authored technical specifications & regulatory docs for FDA approval.
+---
 
-🏢 Blue Cross and Blue Shield of Kansas – Topeka, KS
+## 💼 Professional Experience
 
-Software Developer II | May 2024 – Jan 2025
+### 🏥 Medtronic, Inc. — *Los Angeles, CA*
 
-Led SwiftUI native rewrite of BCBSKS iOS app for 170,000+ members.
+**Software Engineer II** · *Jan 2025 – Present*
 
-Migrated accounts to Okta/Auth0 SSO for HIPAA-compliant secure access.
+* Lead rapid troubleshooting and root‑cause analysis for the **MiniMed iOS app**, supporting **250,000+ patients** worldwide.
+* Build **secure BLE** integrations between OEM CGM sensors and the **780G insulin pump** for Advanced Hybrid Closed Loop therapy.
+* **SME for Apple Watch Extension**: real‑time glucose insights, advanced complications, and performant watch UI.
+* Author technical specs, ICDs, and workflow diagrams to support **regulatory/FDA reviews** and cross‑functional approvals.
 
-Optimized performance using Instruments, cutting CPU & memory usage.
+> *(Where I help glucose data travel safely from sensor to wrist—fast, reliable, and patient‑first.)*
 
-Integrated Apple Pay with PassKit & Tokenized Payment APIs.
+---
 
-🎓 Indiana University – Bloomington, IN
+### 🏢 Blue Cross and Blue Shield of Kansas — *Topeka, KS*
 
-iOS Developer | May 2023 – May 2024
+**Software Developer II** · *May 2024 – Jan 2025*
 
-Built MHAI-Pal, AI-enabled iOS app for 2,000+ students’ mental health tracking.
+* Led the **SwiftUI native rewrite** for **170,000+ members**, architected with **MVVM** and **SPM** for modular scalability.
+* Migrated legacy accounts to **Okta/Auth0 SSO** for secure, HIPAA‑compliant access.
+* Performed deep performance tuning with **Instruments** (Leaks, Allocations, Time Profiler) to reduce CPU/memory.
+* Integrated **Apple Pay** (PassKit, tokenized payments) for in‑app claims & policy payments.
 
-Captured 1M+ passive sensor data points (Health, Motion, Location, Bluetooth).
+> *(Turning insurance into a tap: less friction, more care.)*
 
-Used AES-256 encryption for secure storage + Swift GCD for async pipelines.
+---
 
-Integrated PHQ-9, GAD-7, HADS surveys + Firebase Cloud Messaging.
+### 🎓 Indiana University — *Bloomington, IN*
 
-📱 Kent Displays – Kent, OH
+**iOS Developer** · *May 2023 – May 2024*
 
-Mobile Application Developer Intern | May 2023 – Dec 2023
+* Built **MHAI‑Pal**, an AI‑enabled iOS app tracking mental wellness for **2,000+ students**.
+* Designed a multithreaded pipeline (**Swift GCD**) ingesting **1M+ data points** (Health, Motion, Location, Bluetooth) with **AES‑256** storage.
+* Integrated **PHQ‑9, GAD‑7, HADS** surveys for timely, personalized insights.
+* Boosted engagement via **Firebase Cloud Messaging** and intuitive dashboards.
 
-Rebuilt Blackboard app (iOS + Android) with modern UI/UX.
+> *(Listening to campus well‑being—quietly, securely, and at scale.)*
 
-Optimized BLE smart-pen connectivity.
+---
 
-Authored 100+ test cases (XCTest, Appium).
+### 📱 Kent Displays — *Kent, OH*
 
-Published apps to App Store & Google Play.
+**Mobile Application Developer Intern** · *May 2023 – Dec 2023*
 
-🌍 Tata Consultancy Services – Mumbai, India
+* Rebuilt **Blackboard** (iOS & Android) with modern UI/UX and optimized **BLE smart‑pen** connectivity.
+* Authored **100+ test cases** (XCTest, Appium) for feature and UI validation.
+* Shipped to **App Store** and **Google Play** following platform guidelines.
 
-System Engineer (Mobile) | Nov 2020 – Jul 2022
+> *(Making handwriting feel native on glass.)*
 
-Developed 6 iOS marathon apps → 100,000+ downloads.
+---
 
-Implemented Face ID + JWT authentication.
+### 🌍 Tata Consultancy Services — *Mumbai, India*
 
-Automated CI/CD pipeline (Fastlane + Jenkins), reducing deployment time by 40%.
+**System Engineer (Mobile)** · *Nov 2020 – Jul 2022*
 
-🚆 Ticket On Go – Mumbai, India
+* Developed **6 native iOS marathon apps** with **100,000+ downloads**.
+* Implemented **Face ID + JWT** auth with secure session handling via Keychain.
+* Automated **CI/CD** (Fastlane + Jenkins), reducing release time by **40%**.
 
-Software Developer Intern | Jan 2020 – Oct 2020
+> *(Where race day meets release day.)*
 
-Launched Ticket On Go iOS app → 1,000+ downloads.
+---
 
-Integrated Razorpay SDK for instant ticket payments.
+### 🚆 Ticket On Go — *Mumbai, India*
 
-Embedded Firebase Analytics for real-time user insights.
+**Software Developer Intern** · *Jan 2020 – Oct 2020*
 
-🛠 Skills
+* Launched the **Ticket On Go** iOS app with **1,000+ downloads** for paperless ticketing.
+* Integrated **Razorpay SDK** for instant digital payments.
+* Added **Firebase Analytics** for real‑time user insights.
 
-Languages & Frameworks: Swift, SwiftUI, Objective-C, Kotlin, TypeScript, JavaScript, Python
+> *(Tickets without the turnstile drama.)*
 
-Architectures: MVC, MVP, MVVM, VIPER
+---
 
-Apple & Mobile Frameworks: UIKit, HealthKit, CoreMotion, CoreLocation, MapKit, AVFoundation, Bluetooth, Firebase
+## 🚀 Featured Projects
 
-Tools & Platforms: Xcode, GitHub/GitLab, Jenkins, Fastlane, AWS, GraphQL, Instruments, Android Studio
+> *Some work is proprietary; the summaries focus on my contributions, architecture, and outcomes.*
 
-🏆 Achievements
+* **MiniMed iOS & Watch (Medtronic)** — Secure BLE + watch complications for real‑time CGM insights; authored specs and supported FDA reviews.
+  *Stack:* Swift, UIKit, WatchKit/SwiftUI, CoreBluetooth, Combine
 
-🥈 Silver Stevie Award (2020) – Best UX, TCS NYC Marathon App
+* **BCBSKS iOS Native Rewrite** — End‑to‑end SwiftUI app with MVVM + SPM modules, Apple Pay, Okta/Auth0 SSO, and Instruments‑driven tuning.
+  *Stack:* SwiftUI, Swift, SPM, PassKit, Auth0/Okta, Instruments
 
-🏅 On-the-Spot Award (2020) – Tata Consultancy Services
+* **MHAI‑Pal (Indiana University)** — AI‑enabled mental wellness app; 1M+ passive signals with AES‑256 storage and FCM‑driven engagement.
+  *Stack:* Swift, UIKit, GCD, CoreMotion, CoreLocation, HealthKit, Firebase
 
-🏆 Integrity Award (2023) – Kent Displays
+* **TCS Marathon Suite** — Multi‑event iOS apps with Face ID + JWT, offline Realm cache, and automated CI/CD pipelines.
+  *Stack:* Swift, UIKit, Realm, Keychain, Fastlane, Jenkins
 
-🌐 Connect
+---
 
-🔗 GitHub
+## 🛠 Skills
 
-🔗 LinkedIn
+* **Languages & Frameworks:** Swift, SwiftUI, Objective‑C, Kotlin, TypeScript, JavaScript, Python
+* **Architectures:** MVC, MVP, MVVM, VIPER
+* **Apple & Mobile:** UIKit, HealthKit, CoreMotion, CoreLocation, MapKit, AVFoundation, CoreBluetooth, Firebase
+* **DevEx & Ops:** Xcode, GitHub/GitLab, Jenkins, Fastlane, AWS, GraphQL, Instruments, Android Studio
 
-✍️ Medium
+---
 
-📧 Email: sahu.sagar113@gmail.com
+## 🏆 Achievements
 
-📞 Phone: +1-812-778-4658
+* **Silver Stevie Award (2020)** — Best UX for **TCS NYC Marathon App**
+* **On‑the‑Spot Award (2020)** — Tata Consultancy Services
+* **Integrity Award (2023)** — Kent Displays
+
+---
+
+## 🌐 Connect
+
+* 🔗 **GitHub:** [https://github.com/Sagar03111997](https://github.com/Sagar03111997)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/sagar0311](https://www.linkedin.com/in/sagar0311)
+* ✍️ **Medium:** [http://tinyurl.com/2vwftb7j](http://tinyurl.com/2vwftb7j)
+* 📧 **Email:** [sahu.sagar113@gmail.com](mailto:sahu.sagar113@gmail.com)
+* 📞 **Phone:** +1‑812‑778‑4658
+
+---
+
+> **Note:** I care deeply about privacy, safety, and accessibility. If you’d like a redacted case study or architecture overview for any proprietary work, reach out via email.
